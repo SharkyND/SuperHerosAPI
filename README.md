@@ -1,2 +1,2 @@
 # SuperHerosAPI
-Simple API to get started with ASIP.NET Core 6.
+Simple API to get started with ASP.NET Core 6.
